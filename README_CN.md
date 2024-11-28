@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://qclic.github.io/img/logo.svg" alt="secos-logo" width="64"><br>
-    A security operating system focused on the AIoT (Artificial Intelligence of Things) field.<br/>
+    一个专注于 AIoT 领域的安全操作系统<br/>
     <br/>
 </p>
 
